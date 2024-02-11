@@ -1,5 +1,5 @@
 ================================================
-Sujung Choi (M03331862)
+Sujung Choi
 Data Analytics (CSC 735-Sec 1)- HW1
 ================================================
 Overview: The programs saved in this file are designed to check whether or not a number is a valid credit card number based on Luhn's algorithm.
@@ -21,9 +21,5 @@ File names and explanation of each file:
 	1. Use 'import notebooks' on your workspace of Databricks Community Edition to upload this file.
 	2. Use 'upload data to DBFS' to upload the numbers.txt file you have.
 	3. In the main function, replace the file directory to your file directory after uploading data to DBFS.
-	   (currently, it is set to "dbfs:/FileStore/shared_uploads/sj0998@live.missouristate.edu/numbers.txt")
-
-(c) output_screenshot.pdf
-	It is a pdf file containing the screenshots of the output for each program (a) and (b).
 
 
