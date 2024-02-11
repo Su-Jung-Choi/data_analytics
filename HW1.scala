@@ -1,7 +1,7 @@
 //********************************************************************
 //
-// Author: Sujung Choi (M03331862)
-// Course name: Data Analytics (CSC 735-Sec 1)
+// Author: Sujung Choi
+// Course name: Data Analytics (CSC 735)
 // Assignment: HW1
 // Date of Creation: September 27, 2023
 // Purpose: This program is to check whether or not a number is a valid credit card number from an input file (.txt)
