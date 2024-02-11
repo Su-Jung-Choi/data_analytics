@@ -1,8 +1,8 @@
 // Databricks notebook source
 //********************************************************************
 //
-// Author: Sujung Choi (M03331862)
-// Course name: Data Analytics (CSC 735-Sec 1)
+// Author: Sujung Choi
+// Course name: Data Analytics (CSC 735)
 // Assignment: HW2
 // Date of Creation: October 6, 2023
 //
